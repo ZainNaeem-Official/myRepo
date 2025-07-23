@@ -4,14 +4,18 @@ using namespace std;
 void bubblesort(){
 
   //
-  
+
 }
 void quicksort(){
     
     //
 
 }
+void mergesort(){
 
+  //
+
+}
 int main(){
 
       cout << "Hello World!" <<endl;
